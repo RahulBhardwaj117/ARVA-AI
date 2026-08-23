@@ -1,0 +1,2 @@
+"""ARVA AI backend application."""
+

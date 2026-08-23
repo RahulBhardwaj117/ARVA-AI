@@ -1,0 +1,21 @@
+Source template: PPT Format_Sample copy.pptx
+
+Template contract
+- 25 source slides in a 16:9 canvas (1280 x 720 after import).
+- White academic canvas with a red header/footer bar and ITS logo at upper left.
+- Header copy is white, serif, and centered; body copy is dark serif on white.
+- The source uses blank custom layouts; output slides are duplicated source slides and edited locally.
+- Required source chrome (red bars and ITS mark) is preserved on all content slides.
+
+Reusable source patterns
+- 1: cover; 2: outline; 3: SDG narrative; 5: SDG table; 6: introduction;
+  7/8: literature narrative; 11: research gap; 12: objectives; 13: problem + visual;
+  14: proposed work; 15: methodology visual; 16: system design; 17: implementation;
+  18: evaluation text; 19: result visual; 20: conclusion; 21/22: references;
+  23: contribution appendix; 24: closing.
+
+Editing rules applied
+- Reuse source slides by duplication, retain the original bands/logos, and rewrite the inherited text frames.
+- Replace irrelevant template charts/illustrations rather than presenting social-media evidence as ARVA evidence.
+- Native PowerPoint shapes are limited to simple explanatory architecture/process diagrams where the inherited slide provides a visual frame.
+- Title and body text stay concise to preserve the template typography rather than shrinking text.

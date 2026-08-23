@@ -1,0 +1,1083 @@
+{
+  "schema": "openai.presentation.layout/v4",
+  "unit": "px",
+  "slide": {
+    "aid": "sl/m1wvqtk3",
+    "id": "m1wvqtk3",
+    "slide": 21,
+    "layoutId": "/ppt/slideLayouts/slideLayout7.xml",
+    "layoutName": "Blank",
+    "layoutType": "blank",
+    "masterLayoutId": "/ppt/slideMasters/slideMaster1.xml",
+    "frame": {
+      "left": 0,
+      "top": 0,
+      "width": 1280,
+      "height": 720
+    }
+  },
+  "theme": {
+    "colorSchemeName": "Office",
+    "colors": {
+      "accent1": "#4472C4",
+      "accent2": "#ED7D31",
+      "accent3": "#A5A5A5",
+      "accent4": "#FFC000",
+      "accent5": "#5B9BD5",
+      "accent6": "#70AD47",
+      "dk1": "#000000",
+      "lt1": "#FFFFFF",
+      "dk2": "#44546A",
+      "lt2": "#E7E6E6",
+      "hlink": "#0563C1",
+      "folHlink": "#954F72"
+    },
+    "fontScheme": {
+      "name": "Office",
+      "majorFont": {
+        "latinTypeface": "Calibri Light"
+      },
+      "minorFont": {
+        "latinTypeface": "Calibri"
+      }
+    },
+    "typefaces": [
+      "Calibri",
+      "Calibri Light",
+      "Times New Roman",
+      "Tinos"
+    ]
+  },
+  "inheritedLayers": [
+    {
+      "scope": "layout",
+      "id": "/ppt/slideLayouts/slideLayout7.xml",
+      "name": "Blank",
+      "type": "blank",
+      "parentLayoutId": "/ppt/slideMasters/slideMaster1.xml",
+      "elements": [
+        {
+          "order": 1,
+          "kind": "shape",
+          "scope": "layout",
+          "aid": "template/layout//ppt/slideLayouts/slideLayout7.xml/2",
+          "id": "2",
+          "name": "Date Placeholder 1",
+          "bbox": [
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "order": 2,
+          "kind": "shape",
+          "scope": "layout",
+          "aid": "template/layout//ppt/slideLayouts/slideLayout7.xml/3",
+          "id": "3",
+          "name": "Footer Placeholder 2",
+          "bbox": [
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "order": 3,
+          "kind": "shape",
+          "scope": "layout",
+          "aid": "template/layout//ppt/slideLayouts/slideLayout7.xml/4",
+          "id": "4",
+          "name": "Slide Number Placeholder 3",
+          "bbox": [
+            0,
+            0,
+            0,
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "scope": "master",
+      "id": "/ppt/slideMasters/slideMaster1.xml",
+      "type": "master",
+      "elements": [
+        {
+          "order": 1,
+          "kind": "shape",
+          "scope": "master",
+          "aid": "template/master//ppt/slideMasters/slideMaster1.xml/2",
+          "id": "2",
+          "name": "Title Placeholder 1",
+          "bbox": [
+            88,
+            38.33,
+            1104,
+            139.17
+          ],
+          "geometry": "rect",
+          "text": "Click to edit Master title style",
+          "textPreview": "Click to edit Master title style",
+          "resolvedTextStyle": {
+            "anchor": 2,
+            "vertical": 1,
+            "verticalAlignment": "middle",
+            "autoFit": "shrinkText",
+            "insets": {
+              "top": 4.8,
+              "right": 9.6,
+              "bottom": 4.8,
+              "left": 9.6
+            }
+          },
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Click to edit Master title style",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Click to edit Master title style"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "order": 2,
+          "kind": "shape",
+          "scope": "master",
+          "aid": "template/master//ppt/slideMasters/slideMaster1.xml/3",
+          "id": "3",
+          "name": "Text Placeholder 2",
+          "bbox": [
+            88,
+            191.67,
+            1104,
+            456.83
+          ],
+          "geometry": "rect",
+          "text": "Edit Master text styles\nSecond level\nThird level\nFourth level\nFifth level",
+          "textPreview": "Edit Master text styles | Second level | Third level | Fourth level | Fifth level",
+          "resolvedTextStyle": {
+            "vertical": 1,
+            "autoFit": "shrinkText",
+            "insets": {
+              "top": 4.8,
+              "right": 9.6,
+              "bottom": 4.8,
+              "left": 9.6
+            }
+          },
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Edit Master text styles",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Edit Master text styles"
+                }
+              ]
+            },
+            {
+              "index": 2,
+              "text": "Second level",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Second level"
+                }
+              ]
+            },
+            {
+              "index": 3,
+              "text": "Third level",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Third level"
+                }
+              ]
+            },
+            {
+              "index": 4,
+              "text": "Fourth level",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Fourth level"
+                }
+              ]
+            },
+            {
+              "index": 5,
+              "text": "Fifth level",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Fifth level"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "order": 3,
+          "kind": "shape",
+          "scope": "master",
+          "aid": "template/master//ppt/slideMasters/slideMaster1.xml/4",
+          "id": "4",
+          "name": "Date Placeholder 3",
+          "bbox": [
+            88,
+            667.33,
+            288,
+            38.33
+          ],
+          "geometry": "rect",
+          "resolvedTextStyle": {
+            "anchor": 2,
+            "vertical": 1,
+            "verticalAlignment": "middle",
+            "insets": {
+              "top": 4.8,
+              "right": 9.6,
+              "bottom": 4.8,
+              "left": 9.6
+            }
+          }
+        },
+        {
+          "order": 4,
+          "kind": "shape",
+          "scope": "master",
+          "aid": "template/master//ppt/slideMasters/slideMaster1.xml/5",
+          "id": "5",
+          "name": "Footer Placeholder 4",
+          "bbox": [
+            424,
+            667.33,
+            432,
+            38.33
+          ],
+          "geometry": "rect",
+          "resolvedTextStyle": {
+            "anchor": 2,
+            "vertical": 1,
+            "verticalAlignment": "middle",
+            "insets": {
+              "top": 4.8,
+              "right": 9.6,
+              "bottom": 4.8,
+              "left": 9.6
+            }
+          }
+        },
+        {
+          "order": 5,
+          "kind": "shape",
+          "scope": "master",
+          "aid": "template/master//ppt/slideMasters/slideMaster1.xml/6",
+          "id": "6",
+          "name": "Slide Number Placeholder 5",
+          "bbox": [
+            904,
+            667.33,
+            288,
+            38.33
+          ],
+          "geometry": "rect",
+          "resolvedTextStyle": {
+            "anchor": 2,
+            "vertical": 1,
+            "verticalAlignment": "middle",
+            "insets": {
+              "top": 4.8,
+              "right": 9.6,
+              "bottom": 4.8,
+              "left": 9.6
+            }
+          }
+        }
+      ]
+    }
+  ],
+  "elements": [
+    {
+      "order": 1,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/0f2lon6p",
+      "id": "3",
+      "name": "Title 1",
+      "bbox": [
+        145,
+        0,
+        1120,
+        95
+      ],
+      "geometry": "rect",
+      "text": "Appendix",
+      "textPreview": "Appendix",
+      "resolvedFontSize": 34,
+      "resolvedTextStyle": {
+        "fontSize": 34,
+        "typeface": "Calibri",
+        "color": "#FFFFFF",
+        "bold": true,
+        "alignment": "center",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Appendix"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Appendix",
+          "resolvedTextStyle": {
+            "fontSize": 34,
+            "color": "#FFFFFF",
+            "bold": true,
+            "alignment": "center"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Appendix",
+              "fontSize": 34,
+              "color": "#FFFFFF",
+              "bold": true,
+              "alignment": "center"
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        }
+      ],
+      "fillColor": "#C00000"
+    },
+    {
+      "order": 2,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/qp03yt8n",
+      "id": "5",
+      "name": "Title 1",
+      "bbox": [
+        0,
+        675.71,
+        1280,
+        42.18
+      ],
+      "geometry": "rect",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 3,
+        "lines": [
+          {
+            "index": 1,
+            "text": "                                                            "
+          },
+          {
+            "index": 2,
+            "text": ""
+          },
+          {
+            "index": 3,
+            "text": ""
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "lineSpacingPercent": 90000,
+          "runs": [
+            {
+              "index": 1,
+              "text": "          \t",
+              "fontSize": 32,
+              "typeface": "Tinos",
+              "color": "bg1",
+              "bold": true,
+              "textTransform": "none"
+            },
+            {
+              "index": 2,
+              "text": "                                                  ",
+              "fontSize": 32,
+              "color": "bg1",
+              "bold": true
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        }
+      ],
+      "fillColor": "#C00000"
+    },
+    {
+      "order": 3,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/b6d432pc",
+      "id": "8",
+      "name": "Rectangle 2",
+      "bbox": [
+        464.83,
+        277.67,
+        1280,
+        0
+      ],
+      "geometry": "rect",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "vertical": 1,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "middle",
+        "wrap": "none",
+        "autoFit": "resizeShapeToFitText",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 2,
+        "lines": [
+          {
+            "index": 1,
+            "text": ""
+          },
+          {
+            "index": 2,
+            "text": ""
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "lineSpacingPercent": 100000,
+          "resolvedTextStyle": {
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "\n",
+              "alignment": "left"
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 4,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/ra9kryp8",
+      "id": "4",
+      "name": "Text Box 3",
+      "bbox": [
+        373.33,
+        182.43,
+        533.33,
+        80.8
+      ],
+      "geometry": "rect",
+      "text": "CONTRIBUTION OF PROJECT",
+      "textPreview": "CONTRIBUTION OF PROJECT",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "autoFit": "resizeShapeToFitText",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "CONTRIBUTION OF PROJECT"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "CONTRIBUTION OF PROJECT",
+          "lineSpacingPercent": 114000,
+          "resolvedTextStyle": {
+            "alignment": "center"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "CONTRIBUTION OF PROJECT",
+              "fontSize": 29.33,
+              "typeface": "Times New Roman",
+              "bold": true
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 5,
+      "kind": "table",
+      "scope": "slide",
+      "aid": "tb/fqxgv6l0",
+      "id": "9",
+      "name": "Table 5",
+      "bbox": [
+        373.33,
+        263.23,
+        578.87,
+        7
+      ],
+      "text": "1. Objective & Relevance | A governed decision layer for shared AI/GPU infrastructure.\n2. Technical Novelty | Digital twin + alternatives + policy + audit in one closed loop.\n3. Expected Outcome | Explainable, measurable and replayable infrastructure decisions.\n4. Social Relevance | More productive and safer AI-infrastructure operations.\n5. Environmental Relevance | Cost, power and energy are evaluated with each plan.\n6. Ethical Consideration | RBAC, explicit autonomy modes, approvals and append-only audit events.\n7. Production Path | Audited adapters, TLS, secret rotation and managed data services.",
+      "textPreview": "1. Objective & Relevance | A governed decision layer for shared AI/GPU infrastructure. | 2. Technical Novelty | Digital twin + alternativ...",
+      "rows": 7,
+      "cols": 2,
+      "cells": [
+        {
+          "index": 1,
+          "row": 1,
+          "column": 1,
+          "bbox": [
+            373.33,
+            263.23,
+            289.4,
+            1
+          ],
+          "text": "1. Objective & Relevance",
+          "textPreview": "1. Objective & Relevance",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "1. Objective & Relevance",
+              "lineSpacingPercent": 114000,
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "1. Objective & Relevance",
+                  "fontSize": 14.67,
+                  "typeface": "Times New Roman",
+                  "bold": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 2,
+          "row": 1,
+          "column": 2,
+          "bbox": [
+            662.73,
+            263.23,
+            289.47,
+            1
+          ],
+          "text": "A governed decision layer for shared AI/GPU infrastructure.",
+          "textPreview": "A governed decision layer for shared AI/GPU infrastructure.",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "A governed decision layer for shared AI/GPU infrastructure.",
+              "lineSpacingPercent": 114000,
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "A governed decision layer for shared AI/GPU infrastructure.",
+                  "fontSize": 14.67,
+                  "typeface": "Times New Roman"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 3,
+          "row": 2,
+          "column": 1,
+          "bbox": [
+            373.33,
+            264.23,
+            289.4,
+            1
+          ],
+          "text": "2. Technical Novelty",
+          "textPreview": "2. Technical Novelty",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "2. Technical Novelty",
+              "lineSpacingPercent": 114000,
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "2. Technical Novelty",
+                  "fontSize": 14.67,
+                  "typeface": "Times New Roman",
+                  "bold": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 4,
+          "row": 2,
+          "column": 2,
+          "bbox": [
+            662.73,
+            264.23,
+            289.47,
+            1
+          ],
+          "text": "Digital twin + alternatives + policy + audit in one closed loop.",
+          "textPreview": "Digital twin + alternatives + policy + audit in one closed loop.",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Digital twin + alternatives + policy + audit in one closed loop.",
+              "lineSpacingPercent": 114000,
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Digital twin + alternatives + policy + audit in one closed loop.",
+                  "fontSize": 14.67,
+                  "typeface": "Times New Roman"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 5,
+          "row": 3,
+          "column": 1,
+          "bbox": [
+            373.33,
+            265.23,
+            289.4,
+            1
+          ],
+          "text": "3. Expected Outcome",
+          "textPreview": "3. Expected Outcome",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "3. Expected Outcome",
+              "lineSpacingPercent": 114000,
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "3. Expected Outcome",
+                  "fontSize": 14.67,
+                  "typeface": "Times New Roman",
+                  "bold": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 6,
+          "row": 3,
+          "column": 2,
+          "bbox": [
+            662.73,
+            265.23,
+            289.47,
+            1
+          ],
+          "text": "Explainable, measurable and replayable infrastructure decisions.",
+          "textPreview": "Explainable, measurable and replayable infrastructure decisions.",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Explainable, measurable and replayable infrastructure decisions.",
+              "lineSpacingPercent": 114000,
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Explainable, measurable and replayable infrastructure decisions.",
+                  "fontSize": 14.67,
+                  "typeface": "Times New Roman"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 7,
+          "row": 4,
+          "column": 1,
+          "bbox": [
+            373.33,
+            266.23,
+            289.4,
+            1
+          ],
+          "text": "4. Social Relevance",
+          "textPreview": "4. Social Relevance",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "4. Social Relevance",
+              "lineSpacingPercent": 114000,
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "4. Social Relevance",
+                  "fontSize": 14.67,
+                  "typeface": "Times New Roman",
+                  "bold": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 8,
+          "row": 4,
+          "column": 2,
+          "bbox": [
+            662.73,
+            266.23,
+            289.47,
+            1
+          ],
+          "text": "More productive and safer AI-infrastructure operations.",
+          "textPreview": "More productive and safer AI-infrastructure operations.",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "More productive and safer AI-infrastructure operations.",
+              "lineSpacingPercent": 114000,
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "More productive and safer AI-infrastructure operations.",
+                  "fontSize": 14.67,
+                  "typeface": "Times New Roman"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 9,
+          "row": 5,
+          "column": 1,
+          "bbox": [
+            373.33,
+            267.23,
+            289.4,
+            1
+          ],
+          "text": "5. Environmental Relevance",
+          "textPreview": "5. Environmental Relevance",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "5. Environmental Relevance",
+              "lineSpacingPercent": 114000,
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "5. Environmental Relevance",
+                  "fontSize": 14.67,
+                  "typeface": "Times New Roman",
+                  "bold": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 10,
+          "row": 5,
+          "column": 2,
+          "bbox": [
+            662.73,
+            267.23,
+            289.47,
+            1
+          ],
+          "text": "Cost, power and energy are evaluated with each plan.",
+          "textPreview": "Cost, power and energy are evaluated with each plan.",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Cost, power and energy are evaluated with each plan.",
+              "lineSpacingPercent": 114000,
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Cost, power and energy are evaluated with each plan.",
+                  "fontSize": 14.67,
+                  "typeface": "Times New Roman"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 11,
+          "row": 6,
+          "column": 1,
+          "bbox": [
+            373.33,
+            268.23,
+            289.4,
+            1
+          ],
+          "text": "6. Ethical Consideration",
+          "textPreview": "6. Ethical Consideration",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "6. Ethical Consideration",
+              "lineSpacingPercent": 114000,
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "6. Ethical Consideration",
+                  "fontSize": 14.67,
+                  "typeface": "Times New Roman",
+                  "bold": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 12,
+          "row": 6,
+          "column": 2,
+          "bbox": [
+            662.73,
+            268.23,
+            289.47,
+            1
+          ],
+          "text": "RBAC, explicit autonomy modes, approvals and append-only audit events.",
+          "textPreview": "RBAC, explicit autonomy modes, approvals and append-only audit events.",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "RBAC, explicit autonomy modes, approvals and append-only audit events.",
+              "lineSpacingPercent": 114000,
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "RBAC, explicit autonomy modes, approvals and append-only audit events.",
+                  "fontSize": 14.67,
+                  "typeface": "Times New Roman"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 13,
+          "row": 7,
+          "column": 1,
+          "bbox": [
+            373.33,
+            269.23,
+            289.4,
+            1
+          ],
+          "text": "7. Production Path",
+          "textPreview": "7. Production Path",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "7. Production Path",
+              "lineSpacingPercent": 114000,
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "7. Production Path",
+                  "fontSize": 14.67,
+                  "typeface": "Times New Roman",
+                  "bold": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 14,
+          "row": 7,
+          "column": 2,
+          "bbox": [
+            662.73,
+            269.23,
+            289.47,
+            1
+          ],
+          "text": "Audited adapters, TLS, secret rotation and managed data services.",
+          "textPreview": "Audited adapters, TLS, secret rotation and managed data services.",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Audited adapters, TLS, secret rotation and managed data services.",
+              "lineSpacingPercent": 114000,
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Audited adapters, TLS, secret rotation and managed data services.",
+                  "fontSize": 14.67,
+                  "typeface": "Times New Roman"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "order": 6,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/sb2lk36t",
+      "id": "7",
+      "name": "Text Box 6",
+      "bbox": [
+        373.33,
+        456.57,
+        533.33,
+        81
+      ],
+      "geometry": "rect",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "autoFit": "resizeShapeToFitText",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 2,
+        "lines": [
+          {
+            "index": 1,
+            "text": ""
+          },
+          {
+            "index": 2,
+            "text": " "
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 2,
+          "lineSpacingPercent": 114000,
+          "runs": [
+            {
+              "index": 1,
+              "text": " ",
+              "fontSize": 21.33,
+              "typeface": "Times New Roman"
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 7,
+      "kind": "image",
+      "scope": "slide",
+      "aid": "im/j69c3adw",
+      "id": "10",
+      "name": "Picture 8",
+      "bbox": [
+        6.33,
+        -1.87,
+        125.73,
+        86.2
+      ],
+      "contentType": "image/jpeg",
+      "imageCrop": {
+        "left": 0,
+        "top": 0,
+        "right": 0,
+        "bottom": 0
+      },
+      "asset": {
+        "assetId": "/ppt/media/image.jpeg",
+        "contentType": "image/jpeg",
+        "byteLength": 7242
+      },
+      "fillImage": {
+        "assetId": "/ppt/media/image.jpeg",
+        "contentType": "image/jpeg",
+        "byteLength": 7242
+      }
+    }
+  ],
+  "composeRuns": []
+}

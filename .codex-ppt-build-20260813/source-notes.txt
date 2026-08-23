@@ -1,0 +1,11 @@
+Internal project sources
+- README.md: product scope, simulation-first boundary, stack, seeded fleet and workload counts.
+- docs/architecture.md: control-plane architecture, closed loop, RBAC, deployment modes.
+- docs/optimization.md: six alternatives and CP-SAT formulation.
+- docs/final-verification.md: verified runtime/test gates and scheduler/recovery metrics.
+
+External sources (for literature discussion)
+- Verma et al., Large-scale cluster management at Google with Borg, EuroSys 2015. https://research.google/pubs/large-scale-cluster-management-at-google-with-borg/
+- Gu et al., Tiresias: A GPU Cluster Manager for Distributed Deep Learning, NSDI 2019. https://www.usenix.org/conference/nsdi19/presentation/gu
+- Narayanan et al., Heterogeneity-Aware Cluster Scheduling Policies for Deep Learning Workloads (Gavel), OSDI 2020. https://arxiv.org/abs/2008.09213
+- Google OR-Tools CP-SAT documentation. https://developers.google.com/optimization/cp/

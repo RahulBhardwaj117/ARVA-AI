@@ -1,0 +1,301 @@
+{
+  "sourcePptx": "C:\\Users\\Rahul\\Downloads\\PPT Format_Sample copy.pptx",
+  "workspace": "C:\\Users\\Rahul\\.vscode\\Arva AI\\.codex-ppt-build-20260813",
+  "outDir": "C:\\Users\\Rahul\\.vscode\\Arva AI\\.codex-ppt-build-20260813\\template-inspect",
+  "generatedAt": "2026-08-13T10:21:17.471Z",
+  "slideCount": 25,
+  "slideArtifacts": [
+    {
+      "slide": 1,
+      "previewPath": "C:\\Users\\Rahul\\.vscode\\Arva AI\\.codex-ppt-build-20260813\\template-inspect\\source-slides\\source-slide-01.png",
+      "previewRelativePath": "template-inspect/source-slides/source-slide-01.png",
+      "layoutPath": "C:\\Users\\Rahul\\.vscode\\Arva AI\\.codex-ppt-build-20260813\\template-inspect\\layouts\\source-slide-01.layout.json",
+      "layoutRelativePath": "template-inspect/layouts/source-slide-01.layout.json"
+    },
+    {
+      "slide": 2,
+      "previewPath": "C:\\Users\\Rahul\\.vscode\\Arva AI\\.codex-ppt-build-20260813\\template-inspect\\source-slides\\source-slide-02.png",
+      "previewRelativePath": "template-inspect/source-slides/source-slide-02.png",
+      "layoutPath": "C:\\Users\\Rahul\\.vscode\\Arva AI\\.codex-ppt-build-20260813\\template-inspect\\layouts\\source-slide-02.layout.json",
+      "layoutRelativePath": "template-inspect/layouts/source-slide-02.layout.json"
+    },
+    {
+      "slide": 3,
+      "previewPath": "C:\\Users\\Rahul\\.vscode\\Arva AI\\.codex-ppt-build-20260813\\template-inspect\\source-slides\\source-slide-03.png",
+      "previewRelativePath": "template-inspect/source-slides/source-slide-03.png",
+      "layoutPath": "C:\\Users\\Rahul\\.vscode\\Arva AI\\.codex-ppt-build-20260813\\template-inspect\\layouts\\source-slide-03.layout.json",
+      "layoutRelativePath": "template-inspect/layouts/source-slide-03.layout.json"
+    },
+    {
+      "slide": 4,
+      "previewPath": "C:\\Users\\Rahul\\.vscode\\Arva AI\\.codex-ppt-build-20260813\\template-inspect\\source-slides\\source-slide-04.png",
+      "previewRelativePath": "template-inspect/source-slides/source-slide-04.png",
+      "layoutPath": "C:\\Users\\Rahul\\.vscode\\Arva AI\\.codex-ppt-build-20260813\\template-inspect\\layouts\\source-slide-04.layout.json",
+      "layoutRelativePath": "template-inspect/layouts/source-slide-04.layout.json"
+    },
+    {
+      "slide": 5,
+      "previewPath": "C:\\Users\\Rahul\\.vscode\\Arva AI\\.codex-ppt-build-20260813\\template-inspect\\source-slides\\source-slide-05.png",
+      "previewRelativePath": "template-inspect/source-slides/source-slide-05.png",
+      "layoutPath": "C:\\Users\\Rahul\\.vscode\\Arva AI\\.codex-ppt-build-20260813\\template-inspect\\layouts\\source-slide-05.layout.json",
+      "layoutRelativePath": "template-inspect/layouts/source-slide-05.layout.json"
+    },
+    {
+      "slide": 6,
+      "previewPath": "C:\\Users\\Rahul\\.vscode\\Arva AI\\.codex-ppt-build-20260813\\template-inspect\\source-slides\\source-slide-06.png",
+      "previewRelativePath": "template-inspect/source-slides/source-slide-06.png",
+      "layoutPath": "C:\\Users\\Rahul\\.vscode\\Arva AI\\.codex-ppt-build-20260813\\template-inspect\\layouts\\source-slide-06.layout.json",
+      "layoutRelativePath": "template-inspect/layouts/source-slide-06.layout.json"
+    },
+    {
+      "slide": 7,
+      "previewPath": "C:\\Users\\Rahul\\.vscode\\Arva AI\\.codex-ppt-build-20260813\\template-inspect\\source-slides\\source-slide-07.png",
+      "previewRelativePath": "template-inspect/source-slides/source-slide-07.png",
+      "layoutPath": "C:\\Users\\Rahul\\.vscode\\Arva AI\\.codex-ppt-build-20260813\\template-inspect\\layouts\\source-slide-07.layout.json",
+      "layoutRelativePath": "template-inspect/layouts/source-slide-07.layout.json"
+    },
+    {
+      "slide": 8,
+      "previewPath": "C:\\Users\\Rahul\\.vscode\\Arva AI\\.codex-ppt-build-20260813\\template-inspect\\source-slides\\source-slide-08.png",
+      "previewRelativePath": "template-inspect/source-slides/source-slide-08.png",
+      "layoutPath": "C:\\Users\\Rahul\\.vscode\\Arva AI\\.codex-ppt-build-20260813\\template-inspect\\layouts\\source-slide-08.layout.json",
+      "layoutRelativePath": "template-inspect/layouts/source-slide-08.layout.json"
+    },
+    {
+      "slide": 9,
+      "previewPath": "C:\\Users\\Rahul\\.vscode\\Arva AI\\.codex-ppt-build-20260813\\template-inspect\\source-slides\\source-slide-09.png",
+      "previewRelativePath": "template-inspect/source-slides/source-slide-09.png",
+      "layoutPath": "C:\\Users\\Rahul\\.vscode\\Arva AI\\.codex-ppt-build-20260813\\template-inspect\\layouts\\source-slide-09.layout.json",
+      "layoutRelativePath": "template-inspect/layouts/source-slide-09.layout.json"
+    },
+    {
+      "slide": 10,
+      "previewPath": "C:\\Users\\Rahul\\.vscode\\Arva AI\\.codex-ppt-build-20260813\\template-inspect\\source-slides\\source-slide-10.png",
+      "previewRelativePath": "template-inspect/source-slides/source-slide-10.png",
+      "layoutPath": "C:\\Users\\Rahul\\.vscode\\Arva AI\\.codex-ppt-build-20260813\\template-inspect\\layouts\\source-slide-10.layout.json",
+      "layoutRelativePath": "template-inspect/layouts/source-slide-10.layout.json"
+    },
+    {
+      "slide": 11,
+      "previewPath": "C:\\Users\\Rahul\\.vscode\\Arva AI\\.codex-ppt-build-20260813\\template-inspect\\source-slides\\source-slide-11.png",
+      "previewRelativePath": "template-inspect/source-slides/source-slide-11.png",
+      "layoutPath": "C:\\Users\\Rahul\\.vscode\\Arva AI\\.codex-ppt-build-20260813\\template-inspect\\layouts\\source-slide-11.layout.json",
+      "layoutRelativePath": "template-inspect/layouts/source-slide-11.layout.json"
+    },
+    {
+      "slide": 12,
+      "previewPath": "C:\\Users\\Rahul\\.vscode\\Arva AI\\.codex-ppt-build-20260813\\template-inspect\\source-slides\\source-slide-12.png",
+      "previewRelativePath": "template-inspect/source-slides/source-slide-12.png",
+      "layoutPath": "C:\\Users\\Rahul\\.vscode\\Arva AI\\.codex-ppt-build-20260813\\template-inspect\\layouts\\source-slide-12.layout.json",
+      "layoutRelativePath": "template-inspect/layouts/source-slide-12.layout.json"
+    },
+    {
+      "slide": 13,
+      "previewPath": "C:\\Users\\Rahul\\.vscode\\Arva AI\\.codex-ppt-build-20260813\\template-inspect\\source-slides\\source-slide-13.png",
+      "previewRelativePath": "template-inspect/source-slides/source-slide-13.png",
+      "layoutPath": "C:\\Users\\Rahul\\.vscode\\Arva AI\\.codex-ppt-build-20260813\\template-inspect\\layouts\\source-slide-13.layout.json",
+      "layoutRelativePath": "template-inspect/layouts/source-slide-13.layout.json"
+    },
+    {
+      "slide": 14,
+      "previewPath": "C:\\Users\\Rahul\\.vscode\\Arva AI\\.codex-ppt-build-20260813\\template-inspect\\source-slides\\source-slide-14.png",
+      "previewRelativePath": "template-inspect/source-slides/source-slide-14.png",
+      "layoutPath": "C:\\Users\\Rahul\\.vscode\\Arva AI\\.codex-ppt-build-20260813\\template-inspect\\layouts\\source-slide-14.layout.json",
+      "layoutRelativePath": "template-inspect/layouts/source-slide-14.layout.json"
+    },
+    {
+      "slide": 15,
+      "previewPath": "C:\\Users\\Rahul\\.vscode\\Arva AI\\.codex-ppt-build-20260813\\template-inspect\\source-slides\\source-slide-15.png",
+      "previewRelativePath": "template-inspect/source-slides/source-slide-15.png",
+      "layoutPath": "C:\\Users\\Rahul\\.vscode\\Arva AI\\.codex-ppt-build-20260813\\template-inspect\\layouts\\source-slide-15.layout.json",
+      "layoutRelativePath": "template-inspect/layouts/source-slide-15.layout.json"
+    },
+    {
+      "slide": 16,
+      "previewPath": "C:\\Users\\Rahul\\.vscode\\Arva AI\\.codex-ppt-build-20260813\\template-inspect\\source-slides\\source-slide-16.png",
+      "previewRelativePath": "template-inspect/source-slides/source-slide-16.png",
+      "layoutPath": "C:\\Users\\Rahul\\.vscode\\Arva AI\\.codex-ppt-build-20260813\\template-inspect\\layouts\\source-slide-16.layout.json",
+      "layoutRelativePath": "template-inspect/layouts/source-slide-16.layout.json"
+    },
+    {
+      "slide": 17,
+      "previewPath": "C:\\Users\\Rahul\\.vscode\\Arva AI\\.codex-ppt-build-20260813\\template-inspect\\source-slides\\source-slide-17.png",
+      "previewRelativePath": "template-inspect/source-slides/source-slide-17.png",
+      "layoutPath": "C:\\Users\\Rahul\\.vscode\\Arva AI\\.codex-ppt-build-20260813\\template-inspect\\layouts\\source-slide-17.layout.json",
+      "layoutRelativePath": "template-inspect/layouts/source-slide-17.layout.json"
+    },
+    {
+      "slide": 18,
+      "previewPath": "C:\\Users\\Rahul\\.vscode\\Arva AI\\.codex-ppt-build-20260813\\template-inspect\\source-slides\\source-slide-18.png",
+      "previewRelativePath": "template-inspect/source-slides/source-slide-18.png",
+      "layoutPath": "C:\\Users\\Rahul\\.vscode\\Arva AI\\.codex-ppt-build-20260813\\template-inspect\\layouts\\source-slide-18.layout.json",
+      "layoutRelativePath": "template-inspect/layouts/source-slide-18.layout.json"
+    },
+    {
+      "slide": 19,
+      "previewPath": "C:\\Users\\Rahul\\.vscode\\Arva AI\\.codex-ppt-build-20260813\\template-inspect\\source-slides\\source-slide-19.png",
+      "previewRelativePath": "template-inspect/source-slides/source-slide-19.png",
+      "layoutPath": "C:\\Users\\Rahul\\.vscode\\Arva AI\\.codex-ppt-build-20260813\\template-inspect\\layouts\\source-slide-19.layout.json",
+      "layoutRelativePath": "template-inspect/layouts/source-slide-19.layout.json"
+    },
+    {
+      "slide": 20,
+      "previewPath": "C:\\Users\\Rahul\\.vscode\\Arva AI\\.codex-ppt-build-20260813\\template-inspect\\source-slides\\source-slide-20.png",
+      "previewRelativePath": "template-inspect/source-slides/source-slide-20.png",
+      "layoutPath": "C:\\Users\\Rahul\\.vscode\\Arva AI\\.codex-ppt-build-20260813\\template-inspect\\layouts\\source-slide-20.layout.json",
+      "layoutRelativePath": "template-inspect/layouts/source-slide-20.layout.json"
+    },
+    {
+      "slide": 21,
+      "previewPath": "C:\\Users\\Rahul\\.vscode\\Arva AI\\.codex-ppt-build-20260813\\template-inspect\\source-slides\\source-slide-21.png",
+      "previewRelativePath": "template-inspect/source-slides/source-slide-21.png",
+      "layoutPath": "C:\\Users\\Rahul\\.vscode\\Arva AI\\.codex-ppt-build-20260813\\template-inspect\\layouts\\source-slide-21.layout.json",
+      "layoutRelativePath": "template-inspect/layouts/source-slide-21.layout.json"
+    },
+    {
+      "slide": 22,
+      "previewPath": "C:\\Users\\Rahul\\.vscode\\Arva AI\\.codex-ppt-build-20260813\\template-inspect\\source-slides\\source-slide-22.png",
+      "previewRelativePath": "template-inspect/source-slides/source-slide-22.png",
+      "layoutPath": "C:\\Users\\Rahul\\.vscode\\Arva AI\\.codex-ppt-build-20260813\\template-inspect\\layouts\\source-slide-22.layout.json",
+      "layoutRelativePath": "template-inspect/layouts/source-slide-22.layout.json"
+    },
+    {
+      "slide": 23,
+      "previewPath": "C:\\Users\\Rahul\\.vscode\\Arva AI\\.codex-ppt-build-20260813\\template-inspect\\source-slides\\source-slide-23.png",
+      "previewRelativePath": "template-inspect/source-slides/source-slide-23.png",
+      "layoutPath": "C:\\Users\\Rahul\\.vscode\\Arva AI\\.codex-ppt-build-20260813\\template-inspect\\layouts\\source-slide-23.layout.json",
+      "layoutRelativePath": "template-inspect/layouts/source-slide-23.layout.json"
+    },
+    {
+      "slide": 24,
+      "previewPath": "C:\\Users\\Rahul\\.vscode\\Arva AI\\.codex-ppt-build-20260813\\template-inspect\\source-slides\\source-slide-24.png",
+      "previewRelativePath": "template-inspect/source-slides/source-slide-24.png",
+      "layoutPath": "C:\\Users\\Rahul\\.vscode\\Arva AI\\.codex-ppt-build-20260813\\template-inspect\\layouts\\source-slide-24.layout.json",
+      "layoutRelativePath": "template-inspect/layouts/source-slide-24.layout.json"
+    },
+    {
+      "slide": 25,
+      "previewPath": "C:\\Users\\Rahul\\.vscode\\Arva AI\\.codex-ppt-build-20260813\\template-inspect\\source-slides\\source-slide-25.png",
+      "previewRelativePath": "template-inspect/source-slides/source-slide-25.png",
+      "layoutPath": "C:\\Users\\Rahul\\.vscode\\Arva AI\\.codex-ppt-build-20260813\\template-inspect\\layouts\\source-slide-25.layout.json",
+      "layoutRelativePath": "template-inspect/layouts/source-slide-25.layout.json"
+    }
+  ],
+  "inspectPath": "C:\\Users\\Rahul\\.vscode\\Arva AI\\.codex-ppt-build-20260813\\template-inspect\\template-inspect.ndjson",
+  "inspectRelativePath": "template-inspect/template-inspect.ndjson",
+  "inspectTruncated": true,
+  "inspectMetadata": {
+    "revision": "ple0kv",
+    "target": {
+      "id": "pr/pyu4i9"
+    },
+    "kind": {
+      "requested": "slide,textbox,shape,image,table,chart",
+      "tokens": [
+        "slide",
+        "textbox",
+        "shape",
+        "image",
+        "table",
+        "chart"
+      ]
+    },
+    "include": {
+      "tokens": []
+    },
+    "exclude": {
+      "tokens": []
+    },
+    "notices": []
+  },
+  "extractedMedia": [
+    {
+      "entry": "ppt/media/",
+      "path": "C:\\Users\\Rahul\\.vscode\\Arva AI\\.codex-ppt-build-20260813\\template-inspect\\assets\\ppt\\media\\media",
+      "relativePath": "template-inspect/assets/ppt/media/media",
+      "bytes": 0
+    },
+    {
+      "entry": "ppt/media/image1.jpeg",
+      "path": "C:\\Users\\Rahul\\.vscode\\Arva AI\\.codex-ppt-build-20260813\\template-inspect\\assets\\ppt\\media\\image1.jpeg",
+      "relativePath": "template-inspect/assets/ppt/media/image1.jpeg",
+      "bytes": 7242
+    },
+    {
+      "entry": "ppt/media/image2.emf",
+      "path": "C:\\Users\\Rahul\\.vscode\\Arva AI\\.codex-ppt-build-20260813\\template-inspect\\assets\\ppt\\media\\image2.emf",
+      "relativePath": "template-inspect/assets/ppt/media/image2.emf",
+      "bytes": 62352
+    },
+    {
+      "entry": "ppt/media/image3.png",
+      "path": "C:\\Users\\Rahul\\.vscode\\Arva AI\\.codex-ppt-build-20260813\\template-inspect\\assets\\ppt\\media\\image3.png",
+      "relativePath": "template-inspect/assets/ppt/media/image3.png",
+      "bytes": 15464
+    },
+    {
+      "entry": "ppt/media/image4.png",
+      "path": "C:\\Users\\Rahul\\.vscode\\Arva AI\\.codex-ppt-build-20260813\\template-inspect\\assets\\ppt\\media\\image4.png",
+      "relativePath": "template-inspect/assets/ppt/media/image4.png",
+      "bytes": 100657
+    },
+    {
+      "entry": "ppt/media/image5.png",
+      "path": "C:\\Users\\Rahul\\.vscode\\Arva AI\\.codex-ppt-build-20260813\\template-inspect\\assets\\ppt\\media\\image5.png",
+      "relativePath": "template-inspect/assets/ppt/media/image5.png",
+      "bytes": 259963
+    }
+  ],
+  "fonts": [
+    "+mj-cs",
+    "+mj-ea",
+    "+mj-lt",
+    "+mn-cs",
+    "+mn-ea",
+    "+mn-lt",
+    "Angsana New",
+    "Arial",
+    "Calibri",
+    "Calibri Light",
+    "Candara",
+    "Cordia New",
+    "DaunPenh",
+    "DokChampa",
+    "Estrangelo Edessa",
+    "Euphemia",
+    "Gautami",
+    "Iskoola Pota",
+    "Kalinga",
+    "Kartika",
+    "Latha",
+    "MV Boli",
+    "Mangal",
+    "Microsoft Himalaya",
+    "Microsoft Uighur",
+    "Microsoft Yi Baiti",
+    "Mongolian Baiti",
+    "MoolBoran",
+    "Nyala",
+    "Plantagenet Cherokee",
+    "Raavi",
+    "Shruti",
+    "Sylfaen",
+    "Times New Roman",
+    "Tinos",
+    "Tunga",
+    "Vrinda",
+    "Wingdings",
+    "新細明體",
+    "游ゴシック",
+    "游ゴシック Light",
+    "等线",
+    "等线 Light",
+    "맑은 고딕"
+  ],
+  "packageParts": {
+    "mediaCount": 6,
+    "slideXmlCount": 25,
+    "chartCount": 1,
+    "tableSlideCount": 2
+  }
+}

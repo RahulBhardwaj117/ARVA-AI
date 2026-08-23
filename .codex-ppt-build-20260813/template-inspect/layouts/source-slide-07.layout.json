@@ -1,0 +1,812 @@
+{
+  "schema": "openai.presentation.layout/v4",
+  "unit": "px",
+  "slide": {
+    "aid": "sl/gnmp4jqx",
+    "id": "gnmp4jqx",
+    "slide": 7,
+    "layoutId": "/ppt/slideLayouts/slideLayout7.xml",
+    "layoutName": "Blank",
+    "layoutType": "blank",
+    "masterLayoutId": "/ppt/slideMasters/slideMaster1.xml",
+    "frame": {
+      "left": 0,
+      "top": 0,
+      "width": 1280,
+      "height": 720
+    }
+  },
+  "theme": {
+    "colorSchemeName": "Office",
+    "colors": {
+      "accent1": "#4472C4",
+      "accent2": "#ED7D31",
+      "accent3": "#A5A5A5",
+      "accent4": "#FFC000",
+      "accent5": "#5B9BD5",
+      "accent6": "#70AD47",
+      "dk1": "#000000",
+      "lt1": "#FFFFFF",
+      "dk2": "#44546A",
+      "lt2": "#E7E6E6",
+      "hlink": "#0563C1",
+      "folHlink": "#954F72"
+    },
+    "fontScheme": {
+      "name": "Office",
+      "majorFont": {
+        "latinTypeface": "Calibri Light"
+      },
+      "minorFont": {
+        "latinTypeface": "Calibri"
+      }
+    },
+    "typefaces": [
+      "Calibri",
+      "Calibri Light",
+      "Times New Roman",
+      "Tinos"
+    ]
+  },
+  "inheritedLayers": [
+    {
+      "scope": "layout",
+      "id": "/ppt/slideLayouts/slideLayout7.xml",
+      "name": "Blank",
+      "type": "blank",
+      "parentLayoutId": "/ppt/slideMasters/slideMaster1.xml",
+      "elements": [
+        {
+          "order": 1,
+          "kind": "shape",
+          "scope": "layout",
+          "aid": "template/layout//ppt/slideLayouts/slideLayout7.xml/2",
+          "id": "2",
+          "name": "Date Placeholder 1",
+          "bbox": [
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "order": 2,
+          "kind": "shape",
+          "scope": "layout",
+          "aid": "template/layout//ppt/slideLayouts/slideLayout7.xml/3",
+          "id": "3",
+          "name": "Footer Placeholder 2",
+          "bbox": [
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "order": 3,
+          "kind": "shape",
+          "scope": "layout",
+          "aid": "template/layout//ppt/slideLayouts/slideLayout7.xml/4",
+          "id": "4",
+          "name": "Slide Number Placeholder 3",
+          "bbox": [
+            0,
+            0,
+            0,
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "scope": "master",
+      "id": "/ppt/slideMasters/slideMaster1.xml",
+      "type": "master",
+      "elements": [
+        {
+          "order": 1,
+          "kind": "shape",
+          "scope": "master",
+          "aid": "template/master//ppt/slideMasters/slideMaster1.xml/2",
+          "id": "2",
+          "name": "Title Placeholder 1",
+          "bbox": [
+            88,
+            38.33,
+            1104,
+            139.17
+          ],
+          "geometry": "rect",
+          "text": "Click to edit Master title style",
+          "textPreview": "Click to edit Master title style",
+          "resolvedTextStyle": {
+            "anchor": 2,
+            "vertical": 1,
+            "verticalAlignment": "middle",
+            "autoFit": "shrinkText",
+            "insets": {
+              "top": 4.8,
+              "right": 9.6,
+              "bottom": 4.8,
+              "left": 9.6
+            }
+          },
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Click to edit Master title style",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Click to edit Master title style"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "order": 2,
+          "kind": "shape",
+          "scope": "master",
+          "aid": "template/master//ppt/slideMasters/slideMaster1.xml/3",
+          "id": "3",
+          "name": "Text Placeholder 2",
+          "bbox": [
+            88,
+            191.67,
+            1104,
+            456.83
+          ],
+          "geometry": "rect",
+          "text": "Edit Master text styles\nSecond level\nThird level\nFourth level\nFifth level",
+          "textPreview": "Edit Master text styles | Second level | Third level | Fourth level | Fifth level",
+          "resolvedTextStyle": {
+            "vertical": 1,
+            "autoFit": "shrinkText",
+            "insets": {
+              "top": 4.8,
+              "right": 9.6,
+              "bottom": 4.8,
+              "left": 9.6
+            }
+          },
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Edit Master text styles",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Edit Master text styles"
+                }
+              ]
+            },
+            {
+              "index": 2,
+              "text": "Second level",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Second level"
+                }
+              ]
+            },
+            {
+              "index": 3,
+              "text": "Third level",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Third level"
+                }
+              ]
+            },
+            {
+              "index": 4,
+              "text": "Fourth level",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Fourth level"
+                }
+              ]
+            },
+            {
+              "index": 5,
+              "text": "Fifth level",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Fifth level"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "order": 3,
+          "kind": "shape",
+          "scope": "master",
+          "aid": "template/master//ppt/slideMasters/slideMaster1.xml/4",
+          "id": "4",
+          "name": "Date Placeholder 3",
+          "bbox": [
+            88,
+            667.33,
+            288,
+            38.33
+          ],
+          "geometry": "rect",
+          "resolvedTextStyle": {
+            "anchor": 2,
+            "vertical": 1,
+            "verticalAlignment": "middle",
+            "insets": {
+              "top": 4.8,
+              "right": 9.6,
+              "bottom": 4.8,
+              "left": 9.6
+            }
+          }
+        },
+        {
+          "order": 4,
+          "kind": "shape",
+          "scope": "master",
+          "aid": "template/master//ppt/slideMasters/slideMaster1.xml/5",
+          "id": "5",
+          "name": "Footer Placeholder 4",
+          "bbox": [
+            424,
+            667.33,
+            432,
+            38.33
+          ],
+          "geometry": "rect",
+          "resolvedTextStyle": {
+            "anchor": 2,
+            "vertical": 1,
+            "verticalAlignment": "middle",
+            "insets": {
+              "top": 4.8,
+              "right": 9.6,
+              "bottom": 4.8,
+              "left": 9.6
+            }
+          }
+        },
+        {
+          "order": 5,
+          "kind": "shape",
+          "scope": "master",
+          "aid": "template/master//ppt/slideMasters/slideMaster1.xml/6",
+          "id": "6",
+          "name": "Slide Number Placeholder 5",
+          "bbox": [
+            904,
+            667.33,
+            288,
+            38.33
+          ],
+          "geometry": "rect",
+          "resolvedTextStyle": {
+            "anchor": 2,
+            "vertical": 1,
+            "verticalAlignment": "middle",
+            "insets": {
+              "top": 4.8,
+              "right": 9.6,
+              "bottom": 4.8,
+              "left": 9.6
+            }
+          }
+        }
+      ]
+    }
+  ],
+  "elements": [
+    {
+      "order": 1,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/dcbud0ra",
+      "id": "3",
+      "name": "Title 1",
+      "bbox": [
+        0,
+        0,
+        1280,
+        94.93
+      ],
+      "geometry": "rect",
+      "text": "Literature Survey                                 ",
+      "textPreview": "Literature Survey",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Literature Survey"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Literature Survey                                 ",
+          "resolvedTextStyle": {
+            "alignment": "center"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Literature Survey                                 ",
+              "fontSize": 53.33,
+              "typeface": "Times New Roman",
+              "color": "bg1",
+              "bold": true
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "fillColor": "#C00000"
+    },
+    {
+      "order": 2,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/zedcfa9g",
+      "id": "5",
+      "name": "Title 1",
+      "bbox": [
+        0,
+        672,
+        1280,
+        45.89
+      ],
+      "geometry": "rect",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "                                                                "
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "lineSpacingPercent": 90000,
+          "runs": [
+            {
+              "index": 1,
+              "text": "          ",
+              "fontSize": 32,
+              "typeface": "Tinos",
+              "color": "bg1",
+              "bold": true,
+              "textTransform": "none"
+            },
+            {
+              "index": 2,
+              "text": "                                                      ",
+              "fontSize": 32,
+              "color": "bg1",
+              "bold": true
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "fillColor": "#C00000"
+    },
+    {
+      "order": 3,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/kzmdova1",
+      "id": "6",
+      "name": "TextBox 5",
+      "bbox": [
+        150,
+        100.4,
+        1122,
+        594.55
+      ],
+      "geometry": "rect",
+      "text": "Tan, Y. (2025). [6] Sales data on social media platforms exhibit characteristics of high dimensionality, strong nonlinearity, and multiple cycles. Traditional time series models (such as ARIMA and SARIMA) can handle trends and seasonal changes, but their eﬀectiveness is limited when dealing with complex variable interactions. Over the years, DL methods based on recurrent neural networks have become mainstream.\n\nSharma, A., Patel, N., & Gupta, R. (2022). [7] LSTM networks, a type of recurrent neural network (RNN), have proven their eﬀicacy in time series forecasting due to their ability to model long-term dependencies and manage sequential data (Hochreiter & Schmidhuber, 1997). Their architecture, which includes forget, input, and output gates, allows them to better capture temporal dynamics, making them suitable for sales prediction where historical patterns significantly influence future outcomes.\n\nP. Yadav, C. R. Barde [1] states that a framework that integrates Bidirectional Long Short-Term Memory (BiLSTM) and Word2Vec for analyzing social media data to better align supply with real-time demand trends. This method effectively captured consumer sentiment and external influencers but encountered challenges related to the high volume of unstructured data and computational overhead. Similarly proposed a hybrid machine learning system that combines Graph Convolutional Networks (GCN), Long Short-Term Memory (LSTM), and attention mechanisms to optimize inventory through the analysis of temporal patterns and supply chain relationships. However, the complexity and resource requirements of their approach pose challenges for practical implementation in small or medium-sized enterprises.\n",
+      "textPreview": "Tan, Y. (2025). [6] Sales data on social media platforms exhibit characteristics of high dimensionality, strong nonlinearity, and multipl...",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "wrap": "square",
+        "autoFit": "resizeShapeToFitText",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 20,
+        "lines": [
+          {
+            "index": 1,
+            "text": "ØTan, Y. (2025). [6] Sales data on social media platforms exhibit characteristics of high dimensionality, strong"
+          },
+          {
+            "index": 2,
+            "text": "nonlinearity, and multiple cycles. Traditional time series models (such as ARIMA and SARIMA) can handle"
+          },
+          {
+            "index": 3,
+            "text": "trends and seasonal changes, but their eﬀectiveness is limited when dealing with complex variable interactions."
+          },
+          {
+            "index": 4,
+            "text": "Over the years, DL methods based on recurrent neural networks have become mainstream."
+          },
+          {
+            "index": 5,
+            "text": ""
+          },
+          {
+            "index": 6,
+            "text": "ØSharma, A., Patel, N., & Gupta, R. (2022). [7] LSTM networks, a type of recurrent neural network (RNN),"
+          },
+          {
+            "index": 7,
+            "text": "have proven their eﬀicacy in time series forecasting due to their ability to model long-term dependencies and"
+          },
+          {
+            "index": 8,
+            "text": "manage sequential data (Hochreiter & Schmidhuber, 1997). Their architecture, which includes forget, input,"
+          },
+          {
+            "index": 9,
+            "text": "and output gates, allows them to better capture temporal dynamics, making them suitable for sales prediction"
+          },
+          {
+            "index": 10,
+            "text": "where historical patterns significantly influence future outcomes."
+          },
+          {
+            "index": 11,
+            "text": ""
+          },
+          {
+            "index": 12,
+            "text": "ØP. Yadav, C. R. Barde [1] states that a framework that integrates Bidirectional Long Short-Term Memory ("
+          },
+          {
+            "index": 13,
+            "text": "BiLSTM) and Word2Vec for analyzing social media data to better align supply with real-time demand trends."
+          },
+          {
+            "index": 14,
+            "text": "This method effectively captured consumer sentiment and external influencers but encountered challenges"
+          },
+          {
+            "index": 15,
+            "text": "related to the high volume of unstructured data and computational overhead. Similarly proposed a hybrid"
+          },
+          {
+            "index": 16,
+            "text": "machine learning system that combines Graph Convolutional Networks (GCN), Long Short-Term Memory"
+          },
+          {
+            "index": 17,
+            "text": "(LSTM), and attention mechanisms to optimize inventory through the analysis of temporal patterns and"
+          },
+          {
+            "index": 18,
+            "text": "supply chain relationships. However, the complexity and resource requirements of their approach pose"
+          },
+          {
+            "index": 19,
+            "text": "challenges for practical implementation in small or medium-sized enterprises."
+          },
+          {
+            "index": 20,
+            "text": ""
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Tan, Y. (2025). [6] Sales data on social media platforms exhibit characteristics of high dimensionality, strong nonlinearity, and multiple cycles. Traditional time series models (such as ARIMA and SARIMA) can handle trends and seasonal changes, but their eﬀectiveness is limited when dealing with complex variable interactions. Over the years, DL methods based on recurrent neural networks have become mainstream.",
+          "resolvedTextStyle": {
+            "alignment": "justify"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Tan, Y. (2025). [6] Sales data on social media platforms exhibit characteristics of high dimensionality, strong nonlinearity, and multiple cycles. Traditional time series models ",
+              "typeface": "Times New Roman"
+            },
+            {
+              "index": 2,
+              "text": "(such as ARIMA and SARIMA) ",
+              "typeface": "Times New Roman",
+              "bold": true
+            },
+            {
+              "index": 3,
+              "text": "can handle trends and seasonal changes, but their eﬀectiveness is limited when dealing with complex variable interactions. Over the years, DL methods based on recurrent neural networks have become mainstream.",
+              "typeface": "Times New Roman"
+            }
+          ],
+          "marginLeft": 0
+        },
+        {
+          "index": 3,
+          "text": "Sharma, A., Patel, N., & Gupta, R. (2022). [7] LSTM networks, a type of recurrent neural network (RNN), have proven their eﬀicacy in time series forecasting due to their ability to model long-term dependencies and manage sequential data (Hochreiter & Schmidhuber, 1997). Their architecture, which includes forget, input, and output gates, allows them to better capture temporal dynamics, making them suitable for sales prediction where historical patterns significantly influence future outcomes.",
+          "resolvedTextStyle": {
+            "alignment": "justify"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Sharma, A., Patel, N., & Gupta, R. (2022). [7] ",
+              "typeface": "Times New Roman"
+            },
+            {
+              "index": 2,
+              "text": "LSTM",
+              "typeface": "Times New Roman",
+              "bold": true
+            },
+            {
+              "index": 3,
+              "text": " networks, a type of recurrent neural network (RNN), have proven their eﬀicacy in ",
+              "typeface": "Times New Roman"
+            },
+            {
+              "index": 4,
+              "text": "time series forecasting ",
+              "typeface": "Times New Roman",
+              "bold": true
+            },
+            {
+              "index": 5,
+              "text": "due to their ability to model long-term dependencies and ",
+              "typeface": "Times New Roman"
+            },
+            {
+              "index": 6,
+              "text": "manage sequential data ",
+              "typeface": "Times New Roman",
+              "bold": true
+            },
+            {
+              "index": 7,
+              "text": "(Hochreiter & ",
+              "typeface": "Times New Roman"
+            },
+            {
+              "index": 8,
+              "text": "Schmidhuber",
+              "typeface": "Times New Roman"
+            },
+            {
+              "index": 9,
+              "text": ", 1997). Their architecture, which includes forget, input, and output gates, allows them to better capture temporal dynamics, making them suitable for sales prediction where ",
+              "typeface": "Times New Roman"
+            },
+            {
+              "index": 10,
+              "text": "historical patterns ",
+              "typeface": "Times New Roman",
+              "bold": true
+            },
+            {
+              "index": 11,
+              "text": "significantly influence future outcomes.",
+              "typeface": "Times New Roman"
+            }
+          ],
+          "marginLeft": 0
+        },
+        {
+          "index": 5,
+          "text": "P. Yadav, C. R. Barde [1] states that a framework that integrates Bidirectional Long Short-Term Memory (BiLSTM) and Word2Vec for analyzing social media data to better align supply with real-time demand trends. This method effectively captured consumer sentiment and external influencers but encountered challenges related to the high volume of unstructured data and computational overhead. Similarly proposed a hybrid machine learning system that combines Graph Convolutional Networks (GCN), Long Short-Term Memory (LSTM), and attention mechanisms to optimize inventory through the analysis of temporal patterns and supply chain relationships. However, the complexity and resource requirements of their approach pose challenges for practical implementation in small or medium-sized enterprises.",
+          "resolvedTextStyle": {
+            "alignment": "justify"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "P. Yadav, C. R. Barde [1] states that a framework that integrates Bidirectional Long Short-Term Memory ",
+              "typeface": "Times New Roman"
+            },
+            {
+              "index": 2,
+              "text": "(",
+              "typeface": "Times New Roman",
+              "bold": true
+            },
+            {
+              "index": 3,
+              "text": "BiLSTM",
+              "typeface": "Times New Roman",
+              "bold": true
+            },
+            {
+              "index": 4,
+              "text": ") and Word2Vec ",
+              "typeface": "Times New Roman",
+              "bold": true
+            },
+            {
+              "index": 5,
+              "text": "for analyzing social media data to better align supply with real-time demand trends. This method effectively captured ",
+              "typeface": "Times New Roman"
+            },
+            {
+              "index": 6,
+              "text": "consumer sentiment ",
+              "typeface": "Times New Roman",
+              "bold": true
+            },
+            {
+              "index": 7,
+              "text": "and external influencers but encountered ",
+              "typeface": "Times New Roman"
+            },
+            {
+              "index": 8,
+              "text": "challenges related to the high volume of unstructured data ",
+              "typeface": "Times New Roman",
+              "bold": true
+            },
+            {
+              "index": 9,
+              "text": "and ",
+              "typeface": "Times New Roman"
+            },
+            {
+              "index": 10,
+              "text": "computational overhead",
+              "typeface": "Times New Roman",
+              "bold": true
+            },
+            {
+              "index": 11,
+              "text": ". Similarly proposed a ",
+              "typeface": "Times New Roman"
+            },
+            {
+              "index": 12,
+              "text": "hybrid machine learning ",
+              "typeface": "Times New Roman",
+              "bold": true
+            },
+            {
+              "index": 13,
+              "text": "system that combines ",
+              "typeface": "Times New Roman"
+            },
+            {
+              "index": 14,
+              "text": "Graph Convolutional Networks ",
+              "typeface": "Times New Roman",
+              "bold": true
+            },
+            {
+              "index": 15,
+              "text": "(GCN), Long Short-Term Memory (LSTM), and ",
+              "typeface": "Times New Roman"
+            },
+            {
+              "index": 16,
+              "text": "attention mechanisms ",
+              "typeface": "Times New Roman",
+              "bold": true
+            },
+            {
+              "index": 17,
+              "text": "to ",
+              "typeface": "Times New Roman"
+            },
+            {
+              "index": 18,
+              "text": "optimize",
+              "typeface": "Times New Roman",
+              "bold": true
+            },
+            {
+              "index": 19,
+              "text": " inventory through the analysis of temporal patterns and supply chain relationships. However, the ",
+              "typeface": "Times New Roman"
+            },
+            {
+              "index": 20,
+              "text": "complexity and resource requirements ",
+              "typeface": "Times New Roman",
+              "bold": true
+            },
+            {
+              "index": 21,
+              "text": "of their approach pose challenges for practical implementation in ",
+              "typeface": "Times New Roman"
+            },
+            {
+              "index": 22,
+              "text": "small or medium-sized enterprises.",
+              "typeface": "Times New Roman",
+              "bold": true
+            }
+          ],
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 4,
+      "kind": "image",
+      "scope": "slide",
+      "aid": "im/4ralkf6t",
+      "id": "7",
+      "name": "Picture 1",
+      "bbox": [
+        6.33,
+        -1.87,
+        125.73,
+        86.2
+      ],
+      "contentType": "image/jpeg",
+      "imageCrop": {
+        "left": 0,
+        "top": 0,
+        "right": 0,
+        "bottom": 0
+      },
+      "asset": {
+        "assetId": "/ppt/media/image1.jpeg",
+        "contentType": "image/jpeg",
+        "byteLength": 7242
+      },
+      "fillImage": {
+        "assetId": "/ppt/media/image1.jpeg",
+        "contentType": "image/jpeg",
+        "byteLength": 7242
+      }
+    }
+  ],
+  "composeRuns": []
+}

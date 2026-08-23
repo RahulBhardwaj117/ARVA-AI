@@ -1,0 +1,8 @@
+Output slides retain the supplied academic ITS cover/chrome while replacing the template's sales-prediction content with ARVA AI project content.
+
+Intentional deviations:
+- Slide 1 replaces the template project title and student placeholders with ARVA AI project details.
+- Slides 3-4 replace example SDG narrative/table content with SDG 8, 9 and 13 relevance.
+- Slides 12-17 replace empty diagram/visual placeholders with simple editable process and architecture diagrams.
+- Slides 16-17 replace stock evaluation visuals with ARVA's verified scheduler comparison and an actual project-owned hero visual.
+- Slide 24 is preserved as the source closing pattern.

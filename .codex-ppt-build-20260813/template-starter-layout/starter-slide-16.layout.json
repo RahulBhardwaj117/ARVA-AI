@@ -1,0 +1,965 @@
+{
+  "schema": "openai.presentation.layout/v4",
+  "unit": "px",
+  "slide": {
+    "aid": "sl/0ub3a7",
+    "id": "0ub3a7",
+    "slide": 16,
+    "layoutId": "/ppt/slideLayouts/slideLayout7.xml",
+    "layoutName": "Blank",
+    "layoutType": "blank",
+    "masterLayoutId": "/ppt/slideMasters/slideMaster1.xml",
+    "frame": {
+      "left": 0,
+      "top": 0,
+      "width": 1280,
+      "height": 720
+    }
+  },
+  "theme": {
+    "colorSchemeName": "Office",
+    "colors": {
+      "accent1": "#4472C4",
+      "accent2": "#ED7D31",
+      "accent3": "#A5A5A5",
+      "accent4": "#FFC000",
+      "accent5": "#5B9BD5",
+      "accent6": "#70AD47",
+      "dk1": "#000000",
+      "lt1": "#FFFFFF",
+      "dk2": "#44546A",
+      "lt2": "#E7E6E6",
+      "hlink": "#0563C1",
+      "folHlink": "#954F72"
+    },
+    "fontScheme": {
+      "name": "Office",
+      "majorFont": {
+        "latinTypeface": "Calibri Light"
+      },
+      "minorFont": {
+        "latinTypeface": "Calibri"
+      }
+    },
+    "typefaces": [
+      "Calibri",
+      "Calibri Light",
+      "Candara",
+      "Times New Roman",
+      "Tinos"
+    ]
+  },
+  "inheritedLayers": [
+    {
+      "scope": "layout",
+      "id": "/ppt/slideLayouts/slideLayout7.xml",
+      "name": "Blank",
+      "type": "blank",
+      "parentLayoutId": "/ppt/slideMasters/slideMaster1.xml",
+      "elements": [
+        {
+          "order": 1,
+          "kind": "shape",
+          "scope": "layout",
+          "aid": "template/layout//ppt/slideLayouts/slideLayout7.xml/2",
+          "id": "2",
+          "name": "Date Placeholder 1",
+          "bbox": [
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "order": 2,
+          "kind": "shape",
+          "scope": "layout",
+          "aid": "template/layout//ppt/slideLayouts/slideLayout7.xml/3",
+          "id": "3",
+          "name": "Footer Placeholder 2",
+          "bbox": [
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "order": 3,
+          "kind": "shape",
+          "scope": "layout",
+          "aid": "template/layout//ppt/slideLayouts/slideLayout7.xml/4",
+          "id": "4",
+          "name": "Slide Number Placeholder 3",
+          "bbox": [
+            0,
+            0,
+            0,
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "scope": "master",
+      "id": "/ppt/slideMasters/slideMaster1.xml",
+      "type": "master",
+      "elements": [
+        {
+          "order": 1,
+          "kind": "shape",
+          "scope": "master",
+          "aid": "template/master//ppt/slideMasters/slideMaster1.xml/2",
+          "id": "2",
+          "name": "Title Placeholder 1",
+          "bbox": [
+            88,
+            38.33,
+            1104,
+            139.17
+          ],
+          "geometry": "rect",
+          "text": "Click to edit Master title style",
+          "textPreview": "Click to edit Master title style",
+          "resolvedTextStyle": {
+            "anchor": 2,
+            "vertical": 1,
+            "verticalAlignment": "middle",
+            "autoFit": "shrinkText",
+            "insets": {
+              "top": 4.8,
+              "right": 9.6,
+              "bottom": 4.8,
+              "left": 9.6
+            }
+          },
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Click to edit Master title style",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Click to edit Master title style"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "order": 2,
+          "kind": "shape",
+          "scope": "master",
+          "aid": "template/master//ppt/slideMasters/slideMaster1.xml/3",
+          "id": "3",
+          "name": "Text Placeholder 2",
+          "bbox": [
+            88,
+            191.67,
+            1104,
+            456.83
+          ],
+          "geometry": "rect",
+          "text": "Edit Master text styles\nSecond level\nThird level\nFourth level\nFifth level",
+          "textPreview": "Edit Master text styles | Second level | Third level | Fourth level | Fifth level",
+          "resolvedTextStyle": {
+            "vertical": 1,
+            "autoFit": "shrinkText",
+            "insets": {
+              "top": 4.8,
+              "right": 9.6,
+              "bottom": 4.8,
+              "left": 9.6
+            }
+          },
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Edit Master text styles",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Edit Master text styles"
+                }
+              ]
+            },
+            {
+              "index": 2,
+              "text": "Second level",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Second level"
+                }
+              ]
+            },
+            {
+              "index": 3,
+              "text": "Third level",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Third level"
+                }
+              ]
+            },
+            {
+              "index": 4,
+              "text": "Fourth level",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Fourth level"
+                }
+              ]
+            },
+            {
+              "index": 5,
+              "text": "Fifth level",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Fifth level"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "order": 3,
+          "kind": "shape",
+          "scope": "master",
+          "aid": "template/master//ppt/slideMasters/slideMaster1.xml/4",
+          "id": "4",
+          "name": "Date Placeholder 3",
+          "bbox": [
+            88,
+            667.33,
+            288,
+            38.33
+          ],
+          "geometry": "rect",
+          "resolvedTextStyle": {
+            "anchor": 2,
+            "vertical": 1,
+            "verticalAlignment": "middle",
+            "insets": {
+              "top": 4.8,
+              "right": 9.6,
+              "bottom": 4.8,
+              "left": 9.6
+            }
+          }
+        },
+        {
+          "order": 4,
+          "kind": "shape",
+          "scope": "master",
+          "aid": "template/master//ppt/slideMasters/slideMaster1.xml/5",
+          "id": "5",
+          "name": "Footer Placeholder 4",
+          "bbox": [
+            424,
+            667.33,
+            432,
+            38.33
+          ],
+          "geometry": "rect",
+          "resolvedTextStyle": {
+            "anchor": 2,
+            "vertical": 1,
+            "verticalAlignment": "middle",
+            "insets": {
+              "top": 4.8,
+              "right": 9.6,
+              "bottom": 4.8,
+              "left": 9.6
+            }
+          }
+        },
+        {
+          "order": 5,
+          "kind": "shape",
+          "scope": "master",
+          "aid": "template/master//ppt/slideMasters/slideMaster1.xml/6",
+          "id": "6",
+          "name": "Slide Number Placeholder 5",
+          "bbox": [
+            904,
+            667.33,
+            288,
+            38.33
+          ],
+          "geometry": "rect",
+          "resolvedTextStyle": {
+            "anchor": 2,
+            "vertical": 1,
+            "verticalAlignment": "middle",
+            "insets": {
+              "top": 4.8,
+              "right": 9.6,
+              "bottom": 4.8,
+              "left": 9.6
+            }
+          }
+        }
+      ]
+    }
+  ],
+  "elements": [
+    {
+      "order": 1,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/kzuxgnel",
+      "id": "3",
+      "name": "Title 1",
+      "bbox": [
+        0,
+        -1.87,
+        1280,
+        108.47
+      ],
+      "geometry": "rect",
+      "text": "                            Result and Analysis\n                                 ",
+      "textPreview": "Result and Analysis |",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 2,
+        "lines": [
+          {
+            "index": 1,
+            "text": "                            Result and Analysis"
+          },
+          {
+            "index": 2,
+            "text": "                                 "
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "                            Result and Analysis",
+          "runs": [
+            {
+              "index": 1,
+              "text": "                            ",
+              "fontSize": 53.33,
+              "typeface": "Candara",
+              "bold": true
+            },
+            {
+              "index": 2,
+              "text": "Result",
+              "fontSize": 53.33,
+              "typeface": "Times New Roman",
+              "color": "bg1",
+              "bold": true
+            },
+            {
+              "index": 3,
+              "text": " and ",
+              "fontSize": 53.33,
+              "typeface": "Times New Roman",
+              "color": "bg1",
+              "bold": true
+            },
+            {
+              "index": 4,
+              "text": "Analysis",
+              "fontSize": 53.33,
+              "typeface": "Times New Roman",
+              "color": "bg1",
+              "bold": true
+            }
+          ],
+          "marginLeft": 0
+        },
+        {
+          "index": 2,
+          "resolvedTextStyle": {
+            "alignment": "center"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "                                 ",
+              "fontSize": 53.33,
+              "typeface": "Times New Roman",
+              "color": "bg1",
+              "bold": true
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "fillColor": "#C00000"
+    },
+    {
+      "order": 2,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/61cfixwr",
+      "id": "5",
+      "name": "Title 1",
+      "bbox": [
+        0,
+        675.71,
+        1280,
+        42.18
+      ],
+      "geometry": "rect",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 3,
+        "lines": [
+          {
+            "index": 1,
+            "text": "                                                        "
+          },
+          {
+            "index": 2,
+            "text": ""
+          },
+          {
+            "index": 3,
+            "text": ""
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "lineSpacingPercent": 90000,
+          "runs": [
+            {
+              "index": 1,
+              "text": "          \t\t",
+              "fontSize": 32,
+              "typeface": "Tinos",
+              "color": "bg1",
+              "bold": true,
+              "textTransform": "none"
+            },
+            {
+              "index": 2,
+              "text": "                                              ",
+              "fontSize": 32,
+              "color": "bg1",
+              "bold": true
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "fillColor": "#C00000"
+    },
+    {
+      "order": 3,
+      "kind": "chart",
+      "scope": "slide",
+      "aid": "ch/vm18j2dw",
+      "id": "17",
+      "name": "Chart 9",
+      "bbox": [
+        62.34,
+        176.61,
+        445.96,
+        242.76
+      ],
+      "chartType": "pie"
+    },
+    {
+      "order": 4,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/6d4721of",
+      "id": "16",
+      "name": "TextBox 15",
+      "bbox": [
+        71.43,
+        409.53,
+        545.52,
+        242.34
+      ],
+      "geometry": "rect",
+      "text": "Figure 1: The pie chart displays how different platforms contribute to overall sales impact:\n\nInstagram contributes the highest share at 45%\nYouTube follows with 35%\nFacebook accounts for 20%\n\n",
+      "textPreview": "Figure 1: The pie chart displays how different platforms contribute to overall sales impact: |  | Instagram contributes the highest share...",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "wrap": "square",
+        "autoFit": "resizeShapeToFitText",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 8,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Figure 1: The pie chart displays how different"
+          },
+          {
+            "index": 2,
+            "text": "platforms contribute to overall sales impact:"
+          },
+          {
+            "index": 3,
+            "text": ""
+          },
+          {
+            "index": 4,
+            "text": "ØInstagram contributes the highest share at 45%"
+          },
+          {
+            "index": 5,
+            "text": "ØYouTube follows with 35%"
+          },
+          {
+            "index": 6,
+            "text": "ØFacebook accounts for 20%"
+          },
+          {
+            "index": 7,
+            "text": ""
+          },
+          {
+            "index": 8,
+            "text": ""
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Figure 1: The pie chart displays how different platforms contribute to overall sales impact:",
+          "runs": [
+            {
+              "index": 1,
+              "text": "Figure 1: ",
+              "typeface": "Times New Roman",
+              "bold": true
+            },
+            {
+              "index": 2,
+              "text": "The pie chart displays how different platforms contribute to overall sales impact:",
+              "typeface": "Times New Roman"
+            }
+          ],
+          "marginLeft": 0
+        },
+        {
+          "index": 3,
+          "text": "Instagram contributes the highest share at 45%",
+          "runs": [
+            {
+              "index": 1,
+              "text": "Instagram contributes the highest share at ",
+              "typeface": "Times New Roman"
+            },
+            {
+              "index": 2,
+              "text": "45%",
+              "typeface": "Times New Roman",
+              "bold": true
+            }
+          ],
+          "marginLeft": 0
+        },
+        {
+          "index": 4,
+          "text": "YouTube follows with 35%",
+          "runs": [
+            {
+              "index": 1,
+              "text": "YouTube follows with ",
+              "typeface": "Times New Roman"
+            },
+            {
+              "index": 2,
+              "text": "35%",
+              "typeface": "Times New Roman",
+              "bold": true
+            }
+          ],
+          "marginLeft": 0
+        },
+        {
+          "index": 5,
+          "text": "Facebook accounts for 20%",
+          "runs": [
+            {
+              "index": 1,
+              "text": "Facebook accounts for ",
+              "typeface": "Times New Roman"
+            },
+            {
+              "index": 2,
+              "text": "20%",
+              "typeface": "Times New Roman",
+              "bold": true
+            }
+          ],
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 5,
+      "kind": "image",
+      "scope": "slide",
+      "aid": "im/zap4jul4",
+      "id": "18",
+      "name": "Picture 16",
+      "bbox": [
+        685.71,
+        127.37,
+        531.95,
+        282.17
+      ],
+      "contentType": "image/png",
+      "asset": {
+        "assetId": "/ppt/media/image5.png",
+        "contentType": "image/png",
+        "byteLength": 259963
+      },
+      "fillImage": {
+        "assetId": "/ppt/media/image5.png",
+        "contentType": "image/png",
+        "byteLength": 259963
+      }
+    },
+    {
+      "order": 6,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/7m5gridc",
+      "id": "4",
+      "name": "TextBox 3",
+      "bbox": [
+        62.34,
+        128.63,
+        319.33,
+        67.86
+      ],
+      "geometry": "rect",
+      "text": "Analysis: \n",
+      "textPreview": "Analysis:  |",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "wrap": "square",
+        "autoFit": "resizeShapeToFitText",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 2,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Analysis:"
+          },
+          {
+            "index": 2,
+            "text": ""
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Analysis: ",
+          "runs": [
+            {
+              "index": 1,
+              "text": "Analysis:",
+              "typeface": "Times New Roman",
+              "bold": true
+            },
+            {
+              "index": 2,
+              "text": " ",
+              "typeface": "Times New Roman"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 7,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/m5sf6twn",
+      "id": "9",
+      "name": "TextBox 8",
+      "bbox": [
+        627.54,
+        428.46,
+        597.22,
+        242.34
+      ],
+      "geometry": "rect",
+      "text": "Figure 2: This graph compares the actual sales values (in blue) with the sales predicted by our BiLSTM model (in orange)\n\nClose alignment indicates that our modeleffectively captures sales trends, seasonality, and temporal patterns, resulting in high prediction accuracy and low error.",
+      "textPreview": "Figure 2: This graph compares the actual sales values (in blue) with the sales predicted by our BiLSTM model (in orange) |  | Close align...",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "wrap": "square",
+        "autoFit": "resizeShapeToFitText",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 8,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Figure 2: This graph compares the actual sales values (in"
+          },
+          {
+            "index": 2,
+            "text": "blue) with the sales predicted by our BiLSTM model (in"
+          },
+          {
+            "index": 3,
+            "text": "orange)"
+          },
+          {
+            "index": 4,
+            "text": ""
+          },
+          {
+            "index": 5,
+            "text": "ØClose alignment indicates that our modeleffectively"
+          },
+          {
+            "index": 6,
+            "text": "captures sales trends, seasonality, and temporal"
+          },
+          {
+            "index": 7,
+            "text": "patterns, resulting in high prediction accuracy and"
+          },
+          {
+            "index": 8,
+            "text": "low error."
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Figure 2: This graph compares the actual sales values (in blue) with the sales predicted by our BiLSTM model (in orange)",
+          "runs": [
+            {
+              "index": 1,
+              "text": "Figure 2",
+              "typeface": "Times New Roman",
+              "bold": true
+            },
+            {
+              "index": 2,
+              "text": ": This graph compares the ",
+              "typeface": "Times New Roman"
+            },
+            {
+              "index": 3,
+              "text": "actual sales values",
+              "typeface": "Times New Roman",
+              "color": "#00B0F0",
+              "bold": true
+            },
+            {
+              "index": 4,
+              "text": " (in blue) with the ",
+              "typeface": "Times New Roman"
+            },
+            {
+              "index": 5,
+              "text": "sales predicted by our ",
+              "typeface": "Times New Roman",
+              "color": {
+                "type": "theme",
+                "value": "accent2",
+                "transform": {
+                  "darken": 0.25
+                }
+              },
+              "bold": true
+            },
+            {
+              "index": 6,
+              "text": "BiLSTM",
+              "typeface": "Times New Roman",
+              "color": {
+                "type": "theme",
+                "value": "accent2",
+                "transform": {
+                  "darken": 0.25
+                }
+              },
+              "bold": true
+            },
+            {
+              "index": 7,
+              "text": " model",
+              "typeface": "Times New Roman",
+              "color": {
+                "type": "theme",
+                "value": "accent2",
+                "transform": {
+                  "darken": 0.25
+                }
+              },
+              "bold": true
+            },
+            {
+              "index": 8,
+              "text": " ",
+              "typeface": "Times New Roman",
+              "color": {
+                "type": "theme",
+                "value": "accent2",
+                "transform": {
+                  "darken": 0.25
+                }
+              }
+            },
+            {
+              "index": 9,
+              "text": "(in orange)",
+              "typeface": "Times New Roman"
+            }
+          ],
+          "marginLeft": 0
+        },
+        {
+          "index": 3,
+          "text": "Close alignment indicates that our modeleffectively captures sales trends, seasonality, and temporal patterns, resulting in high prediction accuracy and low error.",
+          "runs": [
+            {
+              "index": 1,
+              "text": "Close alignment indicates that our ",
+              "typeface": "Times New Roman"
+            },
+            {
+              "index": 2,
+              "text": "modeleffectively",
+              "typeface": "Times New Roman"
+            },
+            {
+              "index": 3,
+              "text": " captures ",
+              "typeface": "Times New Roman"
+            },
+            {
+              "index": 4,
+              "text": "sales trends, seasonality, and temporal patterns",
+              "typeface": "Times New Roman",
+              "bold": true
+            },
+            {
+              "index": 5,
+              "text": ", resulting in ",
+              "typeface": "Times New Roman"
+            },
+            {
+              "index": 6,
+              "text": "high prediction accuracy",
+              "typeface": "Times New Roman",
+              "bold": true
+            },
+            {
+              "index": 7,
+              "text": " and low error.",
+              "typeface": "Times New Roman"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 8,
+      "kind": "image",
+      "scope": "slide",
+      "aid": "im/y9w3qpkj",
+      "id": "19",
+      "name": "Picture 1",
+      "bbox": [
+        6.33,
+        -1.87,
+        125.73,
+        86.2
+      ],
+      "contentType": "image/jpeg",
+      "imageCrop": {
+        "left": 0,
+        "top": 0,
+        "right": 0,
+        "bottom": 0
+      },
+      "asset": {
+        "assetId": "/ppt/media/image1.jpeg",
+        "contentType": "image/jpeg",
+        "byteLength": 7242
+      },
+      "fillImage": {
+        "assetId": "/ppt/media/image1.jpeg",
+        "contentType": "image/jpeg",
+        "byteLength": 7242
+      }
+    }
+  ],
+  "composeRuns": []
+}
