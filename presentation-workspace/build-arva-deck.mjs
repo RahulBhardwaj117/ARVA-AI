@@ -1,10 +1,13 @@
 import fs from "node:fs/promises";
+import path from "node:path";
+import { fileURLToPath } from "node:url";
 import { FileBlob, PresentationFile } from "@oai/artifact-tool";
 
-const buildDir = "C:\\Users\\Rahul\\.vscode\\Arva AI\\.codex-ppt-build-20260813";
-const starterPath = `${buildDir}\\template-starter.pptx`;
-const outputPath = "C:\\Users\\Rahul\\.vscode\\Arva AI\\ARVA_AI_Final_Year_Project_Presentation.pptx";
-const ogPath = "C:\\Users\\Rahul\\.vscode\\Arva AI\\frontend\\public\\og.png";
+const buildDir = path.dirname(fileURLToPath(import.meta.url));
+const projectDir = path.dirname(buildDir);
+const starterPath = path.join(buildDir, "template-starter.pptx");
+const outputPath = path.join(projectDir, "ARVA_AI_Final_Year_Project_Presentation.pptx");
+const ogPath = path.join(projectDir, "frontend", "public", "og.png");
 
 const presentation = await PresentationFile.importPptx(await FileBlob.load(starterPath));
 const ogBytesBuffer = await fs.readFile(ogPath);

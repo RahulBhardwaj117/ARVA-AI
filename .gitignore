@@ -16,3 +16,6 @@ frontend/.dev-*.log
 .docker-build-*.log
 postgres_data/
 .DS_Store
+
+# Temporary PowerPoint extraction used for template analysis
+.tmp-template-analysis-*/
